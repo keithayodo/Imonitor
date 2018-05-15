@@ -1,0 +1,5 @@
+deploy android api in tms folder , now only web api is there
+ check on lon in authentication issue
+incoporate md5 hashing to android api
+
+modify adroid app to new db parameters required

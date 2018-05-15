@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_3cf73190ad402d86867e01d7b950149c7ea467bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_b66c0cbec73b5ec9ca99945394ddcc9ac1015a3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_999f0cf7d5e6db68b2361b46356206e4cec42f02\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2acbf28276488b68827f84ad6aaa18e5911be0fc">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_197d95759e26c2c3bc41fedce98889334d7a906e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_2d1ddbd794c7c3bc748e16036d4fb79e7c77edcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_1ec4949dcb2fcf75dbe67b2e9f9b129778d057f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5f855a6fa819e3584c41f9fded796e52263e0d60">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05392516c60f2458ff1a70f142792a4b9b8b6013\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_6bfaffb89c9e671cb65eb8de184c4293c8561162\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KEITH\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\KEITH\Desktop\NEWLoginRegister-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_edac08c6d58621bade3a890ec48e615f964deb0f\classes.dex" />
+    </item>
+
+</items>
